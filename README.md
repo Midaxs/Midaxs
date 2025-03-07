@@ -1,16 +1,20 @@
-## Hi there 👋
+# Oi, meu apelido é Midaxs
 
-<!--
-**Midaxs/Midaxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📒 Descrição
+Breve descrição do seu projeto
 
-Here are some ideas to get you started:
+## 🤖 Tecnologias Utilizadas
+Liste as IAs Generativas e outras ferramentas usadas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧐 Processo de Criação
+Descreva como você criou o conteúdo
+
+## 🚀 Resultados
+Apresente os resultados do seu projeto
+
+<div>
+    <a href="https://beacons.ai/rafaballerini">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
+    </a>
+</div>
